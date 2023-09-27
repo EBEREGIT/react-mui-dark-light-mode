@@ -1,8 +1,15 @@
-# React + Vite
+# How to add Dark mode to a React Project
+This repo contains code for adding dark/light mode to a React project using Material UI design.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Dependencies
+* [React](https://react.dev/)
+* [MUI](https://mui.com/)
+* [Vite](https://vitejs.dev/)
 
-Currently, two official plugins are available:
+## Installation
+* Clone this repo `git clone https://github.com/EBEREGIT/react-mui-dark-light-mode/`
+* Navigate into the repo `cd react-mui-dark-light-mode`
+* Install the dependencies ``npm install``
+* Start the local server ``npm run dev``
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*That will open the project on your default browser : http://127.0.0.1:5173/*
